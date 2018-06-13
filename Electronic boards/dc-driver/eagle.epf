@@ -1,0 +1,22 @@
+[Eagle]
+Version="06 06 00"
+Platform="Mac OS X"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/Applications/EAGLE-6.6.0/lbr/fab.lbr"
+UsedLibrary="/Applications/EAGLE-6.6.0/lbr/SparkFun/SparkFun-Connectors.lbr"
+UsedLibrary="/Applications/EAGLE-6.6.0/lbr/SparkFun/SparkFun-PowerSymbols.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="141 120 911 579"
+State=2
+Number=0
+
+[Desktop]
+Screen="1280 800"
+Window="Win_1"
