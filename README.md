@@ -1,4 +1,5 @@
-# **Heap** by Antonio Garosi 
+# Heap
+### by Antonio Garosi - July 2018
 
 Heap is a kid-targeted interactive game about waste production, aimed at promoting cooperation, fast-thinking and consequentiality.
 Ideally, it's a game where [Tangram](https://en.wikipedia.org/wiki/Tangram) meets [Jenga](https://en.wikipedia.org/wiki/Jenga) meets [Operation](https://en.wikipedia.org/wiki/Operation_(game)).
@@ -19,3 +20,5 @@ Full explanation and production details of the project can be found in the [orig
 Everything regarding Heap is under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Respect this will and everything will be just fine.
 
 ![Creative Commons BY-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+
+For any reason, just [contact me](mailto:antonio_garosi@yahoo.it).
