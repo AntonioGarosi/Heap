@@ -21,7 +21,7 @@ Everything regarding Heap is under [Creative Commons BY-SA 4.0](https://creative
 
 [![Creative Commons BY-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[![Fab Academy](http://new.academy.fablabbcn.org/wp-content/uploads/2014/01/fab-academy2.jpg)](www.fabacademy.org | width=290) 
+[![Fab Academy](http://new.academy.fablabbcn.org/wp-content/uploads/2014/01/fab-academy2.jpg | width=290)](www.fabacademy.org) 
 
 [![Santa Chiara Lab](http://santachiaralab.unisi.it/wp-content/uploads/2017/06/Logo_orizzontale_SCL.jpg)](santachiaralab.unisi.it)
 
