@@ -5,7 +5,7 @@ Heap is a kid-targeted interactive game about waste production, aimed at promoti
 Ideally, it's a game where [Tangram](https://en.wikipedia.org/wiki/Tangram) meets [Jenga](https://en.wikipedia.org/wiki/Jenga) meets [Operation](https://en.wikipedia.org/wiki/Operation_(game)).
 The rules are by design loose and open, but essentially they are as such:
 
-* The players are presented with pool filled with a set of cards representing daily items and various blocks of different colors and shapes;
+* The players are presented with a pool filled with a set of cards representing daily items and various blocks of different colors and shapes;
 
 * Within a time span, the players have to choose among one of the cards and put it on the base at the center of the pool;
 
@@ -19,6 +19,9 @@ Full explanation and production details of the project can be found in the [orig
 
 Everything regarding Heap is under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Respect this will and everything will be just fine.
 
-![Creative Commons BY-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+[![Creative Commons BY-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Fab Academy](http://new.academy.fablabbcn.org/wp-content/uploads/2014/01/fab-academy2.jpg)](www.fabacademy.org)
+[![Santa Chiara Lab](http://santachiaralab.unisi.it/wp-content/uploads/2017/06/Logo_orizzontale_SCL.jpg)](santachiaralab.unisi.it)
+[![Euroinfomatica](http://www.atlantide-web.it/wp-content/uploads/2015/04/logo_euroinformatica_footer.png)](http://www.atlantide-web.it/)
 
 For any reason, just [contact me](mailto:antonio_garosi@yahoo.it).
