@@ -20,8 +20,11 @@ Full explanation and production details of the project can be found in the [orig
 Everything regarding Heap is under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Respect this will and everything will be just fine.
 
 [![Creative Commons BY-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Fab Academy](http://new.academy.fablabbcn.org/wp-content/uploads/2014/01/fab-academy2.jpg)](www.fabacademy.org)
+
+[![Fab Academy](http://new.academy.fablabbcn.org/wp-content/uploads/2014/01/fab-academy2.jpg)](www.fabacademy.org | width=290) 
+
 [![Santa Chiara Lab](http://santachiaralab.unisi.it/wp-content/uploads/2017/06/Logo_orizzontale_SCL.jpg)](santachiaralab.unisi.it)
+
 [![Euroinfomatica](http://www.atlantide-web.it/wp-content/uploads/2015/04/logo_euroinformatica_footer.png)](http://www.atlantide-web.it/)
 
 For any reason, just [contact me](mailto:antonio_garosi@yahoo.it).
