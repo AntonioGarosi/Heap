@@ -1,0 +1,61 @@
+Partlist
+
+Power Supply Board
+
+Part      Value              Package     Library  Position (mm)         Orientation
+5V-CONN2  TERM-1X02-FABLAB   ED555DS-2DS fab      (58.62 47.85)         R90
+5V-CONN4  TERM-1X03'-FABLAB' ED555DS-3DS fab      (58.62 38.56)         R90
+9V-CONN2  TERM-1X02-FABLAB   ED555DS-2DS fab      (58.94 58.2)          R90
+BATTERY   TERM-1X02-FABLAB   ED555DS-2DS fab      (37.03 58.65)         R270
+C1        100uf              C1206FAB    fab      (42.2 58.6)           R270
+GND-CONN2 TERM-1X02-FABLAB   ED555DS-2DS fab      (37.03 37.06)         R270
+GND-CONN3 TERM-1X03'-FABLAB' ED555DS-3DS fab      (37.03 45.95)         R270
+U1                           SOT223      fab      (48.46 58.65)         R0
+
+
+DC Driver Board
+
+Part     Value            Package      Library             Position (mm)         Orientation
+5V       TERM-1X02-FABLAB ED555DS-2DS  fab                 (40.5 38.3)           R270
+9V       TERM-1X02-FABLAB ED555DS-2DS  fab                 (57.69 38.1)          R90
+C1       10uf             C1206FAB     fab                 (46.99 39.37)         R270
+C2       1uf              C1206FAB     fab                 (50.8 39.37)          R270
+DC-IN                     1X02_NO_SILK SparkFun-Connectors (40.5 49.53)          R270
+DC-OUT   TERM-1X02-FABLAB ED555DS-2DS  fab                 (57.69 49.53)         R90
+U$1      A4953            SOIC8        fab                 (48.26 48.26)         R270
+
+
+Speaker Board
+
+Part     Value            Package      Library             Position (inch)       Orientation
+5V       TERM-1X02-FABLAB ED555DS-2DS  fab                 (2.3 2.05)            R90
+9V       TERM-1X02-FABLAB ED555DS-2DS  fab                 (1.328 2.274)         R270
+BLUE                      LED1206FAB   fab                 (1.514 2.02)          R180
+C1       1uF              C1206FAB     fab                 (2 2.284)             R270
+I2C                       1X02_NO_SILK SparkFun-Connectors (1.924 1.85)          R180
+ISP                       2X03SMD      fab                 (1.804 1.592)         R270
+R1       10kohm           R1206FAB     fab                 (1.73 2.286)          R90
+R2       499ohm           R1206FAB     fab                 (1.318 1.956)         R180
+SPEAKER  TERM-1X02-FABLAB ED555DS-2DS  fab                 (1.328 1.534)         R270
+T1                        SOT-23       fab                 (1.57 1.492)          R270
+U$1      ATTINY45SI       SOIC8        fab                 (1.8 2.05)            R270
+
+
+Core Controller Board
+
+Part           Value            Package       Library             Position (inch)       Orientation
+C1             1uf              C1206FAB      fab                 (2.05 1.35)           R270
+FTDI           FTDI             1X06SMD       fab                 (0.80826772 1.65275591) R180
+I2C                             1X02_NO_SILK  SparkFun-Connectors (1.5492126 1.9480315) R0
+IC1            ATMEGA88-THIN    TQFP32-08THIN fab                 (1.56574803 1.61850394) R0
+ISP                             2X03SMD       fab                 (2.05 1.7)            R180
+LED            Blue             LED1206FAB    fab                 (1.77598425 1.18070866) R0
+LOAD-CELL-AMP                   1X02_NO_SILK  SparkFun-Connectors (1.23110236 1.82244094) R270
+MOTOR-DRIVER                    1X02_NO_SILK  SparkFun-Connectors (1.45 1.3)            R0
+POTENTIOMETERS                  1X03_NO_SILK  SparkFun-Connectors (2.06299213 2.02125984) R180
+POWER-SUPPLY   TERM-1X02-FABLAB ED555DS-2DS   fab                 (1.16850394 1.16574803) R0
+R1             10kohm           R1206FAB      fab                 (1.39330709 1.99488189) R0
+R2             499ohm           R1206FAB      fab                 (1.77677165 1.08425197) R0
+R3             10kohm           R1206FAB      fab                 (1.55275591 2.10275591) R90
+R4             10kohm           R1206FAB      fab                 (1.65826772 2.10275591) R90
+XTAL           20 Mhz           EFOBM         fab                 (1.23149606 1.48425197) R270
