@@ -1,0 +1,30 @@
+Partlist
+
+Exported from core-controller.brd at 28/07/18 14:27
+
+EAGLE Version 9.1.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part           Value            Package       Library             Position (mm)         Orientation
+
+9V1            TERM-1X02-FABLAB ED555DS-2DS   fab                 (51.6 21.2)           R0
+AMP-CONN                        1X04_NO_SILK  SparkFun-Connectors (27.2 49.6)           R270
+AMP-GND                         1X01_NO_SILK  SparkFun-Connectors (26.8 36.4)           R270
+C1             1uf              C1206FAB      fab                 (52.07 34.29)         R270
+C4             10uf             C1206FAB      fab                 (46.8 21.6)           R270
+C5             1uf              C1206FAB      fab                 (34.4 21.6)           R90
+DC-OUT1        TERM-1X02-FABLAB ED555DS-2DS   fab                 (40 21.2)             R0
+FTDI           FTDI             1X06SMD       fab                 (27.98 53.07)         R90
+I2C                             1X02_NO_SILK  SparkFun-Connectors (39.35 49.48)         R0
+IC1            ATMEGA88-THIN    TQFP32-08THIN fab                 (39.77 41.11)         R0
+ISP                             2X03SMD       fab                 (52.07 43.18)         R180
+LED            Blue             LED1206FAB    fab                 (45.11 29.99)         R0
+POTENTIOMETERS                  1X03_NO_SILK  SparkFun-Connectors (52.4 51.34)          R180
+POWER-SUPPLY   TERM-1X02-FABLAB ED555DS-2DS   fab                 (28.08 21.21)         R0
+R1             10kohm           R1206FAB      fab                 (36.67 53.41)         R270
+R2             499ohm           R1206FAB      fab                 (45.13 27.54)         R0
+R3             10kohm           R1206FAB      fab                 (39.44 53.41)         R90
+R4             10kohm           R1206FAB      fab                 (42.12 53.41)         R90
+U$2            A4953            SOIC8         fab                 (36.4 30)             R180
+XTAL           20 Mhz           EFOBM         fab                 (31.28 37.7)          R270
