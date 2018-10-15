@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.6.0">
+<eagle version="9.1.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
+<setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.016" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.002" altunitdist="inch" altunit="inch"/>
@@ -52,9 +53,9 @@
 <layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
 <layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
-<layer number="88" name="SimResults" color="9" fill="1" visible="no" active="yes"/>
-<layer number="89" name="SimProbes" color="9" fill="1" visible="no" active="yes"/>
-<layer number="90" name="Modules" color="5" fill="1" visible="no" active="yes"/>
+<layer number="88" name="SimResults" color="9" fill="1" visible="no" active="no"/>
+<layer number="89" name="SimProbes" color="9" fill="1" visible="no" active="no"/>
+<layer number="90" name="Modules" color="5" fill="1" visible="no" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="no" active="no"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="no" active="no"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="no"/>
@@ -160,6 +161,9 @@
 <vertex x="26.0096" y="35.3568"/>
 <vertex x="26.0096" y="59.7408" curve="-90"/>
 </polygon>
+<hole x="33.2232" y="44.6024" drill="2"/>
+<hole x="54.4576" y="36.1696" drill="2"/>
+<hole x="54.864" y="57.3024" drill="2"/>
 </plain>
 <libraries>
 <library name="fab">
@@ -393,16 +397,23 @@ design rules under a new name.</description>
 <param name="slThermalsForVias" value="0"/>
 <param name="dpMaxLengthDifference" value="10mm"/>
 <param name="dpGapFactor" value="2.5"/>
-<param name="checkGrid" value="0"/>
 <param name="checkAngle" value="0"/>
 <param name="checkFont" value="1"/>
 <param name="checkRestrict" value="1"/>
+<param name="checkStop" value="0"/>
+<param name="checkValues" value="0"/>
+<param name="checkNames" value="1"/>
+<param name="checkWireStubs" value="1"/>
+<param name="checkPolygonWidth" value="0"/>
 <param name="useDiameter" value="13"/>
 <param name="maxErrors" value="50"/>
 </designrules>
 <autorouter>
 <pass name="Default">
 <param name="RoutingGrid" value="50mil"/>
+<param name="AutoGrid" value="1"/>
+<param name="Efforts" value="0"/>
+<param name="TopRouterVariant" value="1"/>
 <param name="tpViaShape" value="round"/>
 <param name="PrefDir.1" value="|"/>
 <param name="PrefDir.2" value="0"/>
@@ -800,16 +811,14 @@ design rules under a new name.</description>
 <wire x1="59.7408" y1="36.576" x2="59.7408" y2="36.1696" width="0.3048" layer="1"/>
 <wire x1="59.7408" y1="36.1696" x2="60.1472" y2="35.7632" width="0.3048" layer="1"/>
 </signal>
-<signal name="N$22">
-<via x="33.3248" y="44.704" extent="1-16" drill="1" diameter="1.9304"/>
-</signal>
-<signal name="N$23">
-<via x="53.6448" y="39.8272" extent="1-16" drill="1" diameter="1.9304"/>
-</signal>
-<signal name="N$24">
-<via x="54.4576" y="57.7088" extent="1-16" drill="1" diameter="1.9304"/>
-</signal>
 </signals>
+<mfgpreviewcolors>
+<mfgpreviewcolor name="soldermaskcolor" color="0xC8008000"/>
+<mfgpreviewcolor name="silkscreencolor" color="0xFFFEFEFE"/>
+<mfgpreviewcolor name="backgroundcolor" color="0xFF282828"/>
+<mfgpreviewcolor name="coppercolor" color="0xFFFFBF00"/>
+<mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
+</mfgpreviewcolors>
 </board>
 </drawing>
 </eagle>

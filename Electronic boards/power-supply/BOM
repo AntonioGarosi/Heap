@@ -1,0 +1,18 @@
+Partlist
+
+Exported from power-supply.sch at 15/10/18 23:48
+
+EAGLE Version 9.1.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part      Value              Device             Package     Library  Sheet
+
+5V-CONN2  TERM-1X02-FABLAB   TERM-1X02-FABLAB   ED555DS-2DS fab      1
+5V-CONN4  TERM-1X03'-FABLAB' TERM-1X03'-FABLAB' ED555DS-3DS fab      1
+9V-CONN2  TERM-1X02-FABLAB   TERM-1X02-FABLAB   ED555DS-2DS fab      1
+BATTERY   TERM-1X02-FABLAB   TERM-1X02-FABLAB   ED555DS-2DS fab      1
+C1        100uf              CAP-UNPOLARIZEDFAB C1206FAB    fab      1
+GND-CONN2 TERM-1X02-FABLAB   TERM-1X02-FABLAB   ED555DS-2DS fab      1
+GND-CONN3 TERM-1X03'-FABLAB' TERM-1X03'-FABLAB' ED555DS-3DS fab      1
+U1                           V_REG_LM1117SOT223 SOT223      fab      1

@@ -1,0 +1,21 @@
+Partlist
+
+Exported from speaker-board.sch at 16/10/18 00:02
+
+EAGLE Version 9.1.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value            Device              Package      Library             Sheet
+
+5V       TERM-1X02-FABLAB TERM-1X02-FABLAB    ED555DS-2DS  fab                 1
+9V       TERM-1X02-FABLAB TERM-1X02-FABLAB    ED555DS-2DS  fab                 1
+BLUE                      LEDFAB1206          LED1206FAB   fab                 1
+C1       1uF              CAP-UNPOLARIZEDFAB  C1206FAB     fab                 1
+I2C                       CONN_021X02_NO_SILK 1X02_NO_SILK SparkFun-Connectors 1
+ISP                       AVRISPSMD           2X03SMD      fab                 1
+R1       10kohm           RES-US1206FAB       R1206FAB     fab                 1
+R2       499ohm           RES-US1206FAB       R1206FAB     fab                 1
+SPEAKER  TERM-1X02-FABLAB TERM-1X02-FABLAB    ED555DS-2DS  fab                 1
+T1                        NMOSFETSOT23        SOT-23       fab                 1
+U$1      ATTINY45SI       ATTINY45SI          SOIC8        fab                 1
