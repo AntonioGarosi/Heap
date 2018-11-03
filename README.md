@@ -1,5 +1,5 @@
 # Heap
-### by Antonio Garosi - July 2018
+### by Antonio Garosi
 
 Heap is a kid-targeted interactive game aimed at promoting cooperation, fast-thinking and consequentiality.
 Ideally, it's a [Tangram](https://en.wikipedia.org/wiki/Tangram) meets [Jenga](https://en.wikipedia.org/wiki/Jenga) meets [Operation](https://en.wikipedia.org/wiki/Operation_(game)) game (this salad is also heavily seasoned with [Beasts of Balance](https://beastsofbalance.com/)'s sauce).
