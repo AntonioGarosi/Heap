@@ -1,12 +1,23 @@
 # Heap
 ### by Antonio Garosi - July 2018
 
-Heap is a kid-targeted interactive game about waste production, aimed at promoting cooperation, fast-thinking and consequentiality.
-Ideally, it's a game where [Tangram](https://en.wikipedia.org/wiki/Tangram) meets [Jenga](https://en.wikipedia.org/wiki/Jenga) meets [Operation](https://en.wikipedia.org/wiki/Operation_(game)).
-The rules are by design loose, customizable and open.
+Heap is a kid-targeted interactive game aimed at promoting cooperation, fast-thinking and consequentiality.
+Ideally, it's a [Tangram](https://en.wikipedia.org/wiki/Tangram) meets [Jenga](https://en.wikipedia.org/wiki/Jenga) meets [Operation](https://en.wikipedia.org/wiki/Operation_(game)) game (this salad is also heavily seasoned with [Beasts of Balance](https://beastsofbalance.com/)'s sauce).
 
-_**Update October 2018**_
-__I'm upgrading and updating several parts of this project in these week. This makeover will also affect the game rules which will be soon posted as a new game mode__
+The game was initially conceived to be themed about ecological issues, and the questions are accordingly based on reports about italian waste production.
+Expanding the game to other subjects is just a matter of choosing new pairings of questions and answers, coding them and updating the game firmware.
+
+As of October 2018, the most tested version of the game is based of the following rules:
+
+* The players have at their disposal a pool of blocks and tiles.
+* Blocks of different materials represents different waste byproducts: natural wood for paper, blue acrylic for plastics, white and red PLA for generic waste. Each block also represents a quantity expressed by its size. Each cube it is made of represents 10kg.
+* Each tile is numbered and represents a question.
+* The players start a question by placing a card over the central base of the game. Each question is about quantity and they can replied by placing the blocks over the tile.
+* If the amount and type of blocks placed over the tile properly answers its question the players can keep building the heap by adding tiles and blocks and so on.
+* If the players the players place the wrong amount or type of blocks, the base shakes and the heap crumbles.
+* If the players don't reply quick enough, the base shakes and the heap crumbles.
+* If the players inadvertently remove or make fall blocks from the heap, the base shakes and ...yep, the heap crumbles.
+* If the heap crumbles down, the game is lost.
 
 Full explanation and production details of the project can be found in the [original documentation](http://fab.academany.org/2018/labs/fablabsiena/students/antonio-garosi/final-project/), realized as a final project for my Fab Academy course in 2018.
 
@@ -20,4 +31,4 @@ Everything regarding Heap is under [Creative Commons BY-SA 4.0](https://creative
 
 [![Euroinfomatica](http://www.atlantide-web.it/wp-content/uploads/2015/04/logo_euroinformatica_footer.png)](http://www.atlantide-web.it/)
 
-For any reason, just [contact me](mailto:antonio_garosi@yahoo.it).
+For any reason, just [contact me](mailto:antonio_garosi@yahoo.it)
